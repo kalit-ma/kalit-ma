@@ -6,8 +6,6 @@ Welcome to Kalit, your go-to partner for comprehensive ERP solutions. With a str
 
 At Kalit, we specialize in ERP solutions, providing end-to-end services that include implementation, custom development, and more. Our commitment is to empower businesses with efficient and scalable solutions that drive growth and streamline operations.
 
-Kalit is a 
-
 <!---
 kalit-ma/kalit-ma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
